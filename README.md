@@ -32,6 +32,8 @@ Aylıq Sales & Profit trendi
 Top 5 Sub-Category üzrə aylıq satış artımı
 Top 5 şəhər və sub-category üzrə profit
 Sub-Category üzrə Profit Margin müqayisəsi
+
+
 💡 Əsas Nəticələr (Key Insights)
 Standard Class çatdırılma üsulu ən çox istifadə olunan və ən sərfəli seçimdir; First Class və Same Day daha az istifadə olunur və nisbətən aşağı profit gətirir.
 Bookcases, Tables və Supplies sub-category-ləri ümumilikdə şirkətə zərər gətirir; xüsusilə yüksək endirimlərlə satılan Binders məhsulları yüksək satışa baxmayaraq mənfi profit göstərir. Bununla belə, bu sub-category-lərin daxilində həm zərər verən, həm də xeyir gətirən məhsullar mövcuddur — yəni zərər bütün məhsullara deyil, konkret məhsul adlarına aiddir.
